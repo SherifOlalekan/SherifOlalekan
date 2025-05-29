@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **akeemsherif@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1egLiwBM0cUWK5bxRPEOYSQCyLErubJVU/view?usp=drive_link](https://drive.google.com/file/d/1egLiwBM0cUWK5bxRPEOYSQCyLErubJVU/view?usp=drive_link)
+- 📄 [Here is a Link to my Resume](https://drive.google.com/file/d/1egLiwBM0cUWK5bxRPEOYSQCyLErubJVU/view?usp=drive_link)
 
 - ⚡ Fun fact **I am open to Volunteering**
 
