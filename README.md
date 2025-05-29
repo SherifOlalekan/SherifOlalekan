@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/670ec357-8000-4036-a656-393be657b846)
+[![MasterHead](https://github.com/user-attachments/assets/670ec357-8000-4036-a656-393be657b846)]
 <h1 align="center">Hi 👋, I'm Olalekan Sherif</h1>
 <h3 align="center">A Data Analyst from Nigeria. I’m passionate about transforming raw data into actionable insights and building scalable data pipelines</h3>
 
