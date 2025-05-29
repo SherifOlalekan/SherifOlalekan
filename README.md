@@ -1,4 +1,5 @@
-[![MasterHead](https://lottie.host/deb269fe-683f-4364-81a3-694e3aceba29/IWR5Crm4vc.lottie)](https://github.com/SherifOlalekan)
+![istockphoto-1455958730-612x612](https://github.com/user-attachments/assets/e1fd465c-da16-4e78-8fc0-9f805a46b55c)
+ 
 <h1 align="center">Hi 👋, I'm Olalekan Sherif</h1>
 <h3 align="center">A Data Analyst from Nigeria. I’m passionate about transforming raw data into actionable insights and building scalable data pipelines</h3>
 
