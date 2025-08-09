@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherifolalekan&label=Profile%20views&color=0e75b6&style=flat" alt="sherifolalekan" /> </p>
 
-- 🔭 I’m currently working on **Diabetes Status Predictor**
+- 🔭 I’m currently working on **AI Agents for Construction Tasks**
 
-- 🌱 I’m currently learning **Scikit-Learn**
+- 🌱 I’m currently learning **Scikit-Learn, CrewAI**
 
 - 👯 I’m looking to collaborate on **Construction project Analysis (Cost, Resources and Timeline)**
 
