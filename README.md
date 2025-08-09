@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherifolalekan&label=Profile%20views&color=0e75b6&style=flat" alt="sherifolalekan" /> </p>
 
-- 🔭 I’m currently working on **AI Agents for Construction Tasks**
+- 🔭 I’m currently working on **AI Agents for Construction (Tasks and Reporting)**
 
 - 🌱 I’m currently learning **Scikit-Learn, CrewAI**
 
